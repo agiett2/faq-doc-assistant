@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "00Jv/zPhMnA=",
+  "success": true,
+  "projectFilePath": "/workspaces/faq-doc-assistant/api/FaqAssistant.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.ai/11.0.1/microsoft.extensions.ai.11.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.ai.abstractions/11.0.1/microsoft.extensions.ai.abstractions.11.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.ai.openai/11.0.1/microsoft.extensions.ai.openai.11.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.caching.abstractions/11.0.0/microsoft.extensions.caching.abstractions.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/11.0.0/microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.logging.abstractions/11.0.0/microsoft.extensions.logging.abstractions.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.primitives/11.0.0/microsoft.extensions.primitives.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/npgsql/11.0.0/npgsql.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/openai/2.15.0/openai.2.15.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/pdfpig/0.1.16/pdfpig.0.1.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/pgvector/0.3.2/pgvector.0.3.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.clientmodel/1.16.0/system.clientmodel.1.16.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.diagnosticsource/11.0.0/system.diagnostics.diagnosticsource.11.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory.data/10.0.10/system.memory.data.10.0.10.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.numerics.tensors/11.0.0/system.numerics.tensors.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
